@@ -2,9 +2,7 @@
 
 <b>Auto Restart All User Forwarding After Bot Restarted.</b>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Forward+Bot+!)
-
-## How To Deploy [Video Tutorial](https://youtu.be/A-iIh_5WAlk)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VIPBOSS+Forward+Bot+!)
 
 ## Features
 
@@ -16,9 +14,6 @@
 - [x] Skip Messages Based On Extensions & Keywords & Size
 - [x] Filter Type Of Messages
 - [x] Auto Restart Pending Task After Bot Restart 
-
-
-<b>To Know About All Features, Join My <a href='https://t.me/VJ_Botz'>Update Channel</a>.</b>
 
 ## Commands
 
